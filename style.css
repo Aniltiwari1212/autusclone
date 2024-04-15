@@ -149,7 +149,7 @@ section.counter-sec {
     display: inline-block;
 }
 .counter-sec{
-    background: url(../img/counter_bg.webp);
+    background: url(counter_bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -197,7 +197,7 @@ section.counter-sec {
     padding: 15px 40px;
 }
 .single-srvc-preview{
-    background: url(../img/tab-bg.png);
+    background: url(tab-bg.png);
     background-repeat: no-repeat;
     background-size: 550px 350px;
     background-position: 100% 115%;
@@ -511,7 +511,7 @@ body {
   text-transform: uppercase;
 }
 .over-box{
-  background-image: url(../img/count-bg.png);
+  background-image: url(count-bg.png);
   background-repeat: no-repeat;
   background-size:cover;
   padding: 30px;
